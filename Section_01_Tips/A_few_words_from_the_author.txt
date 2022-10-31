@@ -1,0 +1,28 @@
+English version
+
+A few words from the author
+
+The course consists mainly of exercises and is focused on practical learning.
+
+This is the moment when a novice programmer can test skills on real problems.
+
+I encourage you to do the exercises yourself. Make mistakes and fix them. Search technical documentation and forums. Use services such as Stack Overflow or GitHub.
+This is an integral part of the programmer's work. The ability to search for valuable information or solve complex problems is crucial.
+Critical thinking also. Fortunately, you can learn it.
+
+Good luck, have fun & happy coding! :)
+
+
+
+Versão em Português
+
+Algumas palavras do autor
+
+O curso consiste principalmente de exercícios e é focado no aprendizado prático.
+
+Este é o momento em que um programador iniciante pode testar suas habilidades em problemas reais.
+
+Eu encorajo você a fazer os exercícios sozinho. Cometa erros e corrija-os. Pesquise documentação técnica e fóruns. Use serviços como Stack Overflow ou GitHub.
+Esta é uma parte integrante do trabalho do programador. A capacidade de procurar informações valiosas ou resolver problemas complexos é crucial. Pensamento crítico também. Felizmente, você pode aprender.
+
+Boa sorte, divirta-se e boa codificação! :)

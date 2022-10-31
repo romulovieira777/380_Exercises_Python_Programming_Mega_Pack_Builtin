@@ -1,0 +1,19 @@
+English version
+
+Configuration
+
+If you have a runtime environment set up, you can jump straight to the coding exercises. However, if you want to configure the environment, please go to the optional
+section at the end of the course - "Configuration (optional)".
+
+Tip: I recommend doing the exercises in your own editor and copying the solutions.
+
+
+
+Versão em Português
+
+Configuração
+
+Se você tiver um ambiente de tempo de execução configurado, poderá ir direto para os exercícios de codificação.
+No entanto, se você deseja configurar o ambiente, vá para a seção opcional no final do curso - "Configuração (opcional)".
+
+Dica: recomendo fazer os exercícios em seu próprio editor e copiar as soluções.
