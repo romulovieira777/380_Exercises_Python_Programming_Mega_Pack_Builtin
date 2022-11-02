@@ -5,6 +5,6 @@
 - [Section 02 - Starter](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_02_Starter)
 - [Section 03 - Basics](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_03_Basics)
 - [Section 04 - Print Function](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_04_Print_Function)
-- [Section 05 - Calculations in Python]()
+- [Section 05 - Calculations in Python](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_05_Calculations_in_Python)
 
 Link to the course: [Udemy](https://www.udemy.com/course/python-programming-modules-packages/)
