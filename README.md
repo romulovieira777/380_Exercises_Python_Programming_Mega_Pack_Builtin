@@ -6,6 +6,7 @@
 - [Section 03 - Basics](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_03_Basics)
 - [Section 04 - Print Function](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_04_Print_Function)
 - [Section 05 - Calculations in Python](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_05_Calculations_in_Python)
-- [Section 06 - Slicing]()
+- [Section 06 - Slicing](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_06_Slicing)
+- [Section 07 - Data Types]()
 
 Link to the course: [Udemy](https://www.udemy.com/course/python-programming-modules-packages/)
