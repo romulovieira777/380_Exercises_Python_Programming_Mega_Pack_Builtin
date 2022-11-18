@@ -14,4 +14,5 @@ Expected result:
 {'USA': 'Washington', 'Germany': 'Berlin', 'Austria': 'Vienna'}
 """
 capitals = {'USA': 'Washington', 'Germany': 'Berlin', 'Austria': 'Vienna'}
+
 print(capitals)

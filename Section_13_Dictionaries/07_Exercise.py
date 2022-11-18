@@ -20,5 +20,6 @@ stocks = {
     'AAPL.US': {'Apple Inc': 310},
     'MMM.US': {'3M Co': 148}
 }
+
 print(stocks['MSFT.US']['Microsoft Corp'])
 print(stocks.get('MSFT.US').get('Microsoft Corp'))

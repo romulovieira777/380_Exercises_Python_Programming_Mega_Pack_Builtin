@@ -1,5 +1,5 @@
 """
-Exercise No. 06
+Exercise No. 08
 
 The following dictionary is given:
 
@@ -9,11 +9,11 @@ The following dictionary is given:
         'MMM.US': {'3M Co': 148}
     }
 
-Extract the value for the key 'AAPL.US' and print it to the console.
+Update the price for Microsoft to 190 and print the value fot the 'MSFT.US' key to the console.
 
 Expected result:
 
-    {'Apple Inc': 310}
+    {'Microsoft Corp': 190}
 """
 stocks = {
     'MSFT.US': {'Microsoft Corp': 184},
@@ -21,5 +21,5 @@ stocks = {
     'MMM.US': {'3M Co': 148}
 }
 
-print(stocks.get('AAPL.US'))
-print(stocks['AAPL.US'])
+stocks['MSFT.US']['Microsoft Corp'] = 190
+print(stocks['MSFT.US'])

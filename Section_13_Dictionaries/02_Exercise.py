@@ -16,4 +16,5 @@ Expected result:
     dict_keys(['USA', 'Germany', 'Austria'])
 """
 capitals = {'USA': 'Washington', 'Germany': 'Berlin', 'Austria': 'Vienna'}
+
 print(capitals.keys())
