@@ -19,6 +19,7 @@
 - [Section 16 - For Loop](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_16_For_Loop)
 - [Section 17 - Break Statement](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_17_Break_Statement)
 - [Section 18 - Continue Statement](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_18_Continue_Statement)
-- [Section 19 - While Loop]()
+- [Section 19 - While Loop](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_19_While_Loop)
+- [Section 20 - Exception Handling]()
 
 Link to the course: [Udemy](https://www.udemy.com/course/python-programming-modules-packages/)
