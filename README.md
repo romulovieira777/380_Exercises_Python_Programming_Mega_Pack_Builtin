@@ -23,6 +23,8 @@
 - [Section 20 - Exception Handling](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_20_Exception_Handling)
 - [Section 21 - Input / Output](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_21_Input_Output)
 - [Section 22 - Reading Files](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_22_Reading_Files)
-- [Section 23 - Saving To File]()
+- [Section 23 - Saving To File](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_23_Saving_To_File)
+- [Section 24 - Functions](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_24_Functions)
+- [Section 25 - Built-in Functions]()
 
 Link to the course: [Udemy](https://www.udemy.com/course/python-programming-modules-packages/)
