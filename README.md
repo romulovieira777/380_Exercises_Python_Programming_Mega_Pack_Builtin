@@ -26,5 +26,6 @@
 - [Section 23 - Saving To File](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_23_Saving_To_File)
 - [Section 24 - Functions](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_24_Functions)
 - [Section 25 - Built-in Functions](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_25_Built_in_Functions)
+- [Section 26 - Defining Your Own Functions]()
 
 Link to the course: [Udemy](https://www.udemy.com/course/python-programming-modules-packages/)
