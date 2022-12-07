@@ -14,7 +14,7 @@ Example:
     [IN]: is_palindrome('python')
     [OUT]: False
 
-Note: The function should be case insensitive.
+Note: You only need to define the function.
 """
 
 
