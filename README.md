@@ -28,5 +28,6 @@
 - [Section 25 - Built-in Functions](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_25_Built_in_Functions)
 - [Section 26 - Defining Your Own Functions](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_26_Defining_Your_Own_Functions)
 - [Section 27 - Lambda Expression](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_27_Lambda_Expression)
+- [Section 28 - Generators]()
 
 Link to the course: [Udemy](https://www.udemy.com/course/python-programming-modules-packages/)
