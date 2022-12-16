@@ -30,6 +30,7 @@
 - [Section 27 - Lambda Expression](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_27_Lambda_Expression)
 - [Section 28 - Generators](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_28_Generators)
 - [Section 29 - Transformation of Data Structures](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_29_Transformation_of_Data_Structures)
-- [Section 30 - Set Comprehension]()
+- [Section 30 - Set Comprehension](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_30_Set_Comprehension)
+- [Section 31 - List Comprehension]()
 
 Link to the course: [Udemy](https://www.udemy.com/course/python-programming-modules-packages/)
