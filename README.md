@@ -32,6 +32,6 @@
 - [Section 29 - Transformation of Data Structures](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_29_Transformation_of_Data_Structures)
 - [Section 30 - Set Comprehension](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_30_Set_Comprehension)
 - [Section 31 - List Comprehension](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_31_List_Comprehension)
-- [Section 32 - Dict Comprehension]()
+- [Section 32 - Dict Comprehension](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_32_Dict_Comprehension)
 
 Link to the course: [Udemy](https://www.udemy.com/course/python-programming-modules-packages/)
