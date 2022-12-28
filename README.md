@@ -34,6 +34,6 @@
 - [Section 31 - List Comprehension](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_31_List_Comprehension)
 - [Section 32 - Dict Comprehension](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_32_Dict_Comprehension)
 - [Section 33 - Built-in Packages](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_33_Built_in_Packages)
-- [Section 34 - Built-in Packages]()
+- [Section 34 - Built-in Packages](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_34_Built_in_Packages)
 
 Link to the course: [Udemy](https://www.udemy.com/course/python-programming-modules-packages/)
