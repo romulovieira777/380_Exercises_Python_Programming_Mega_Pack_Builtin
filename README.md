@@ -39,6 +39,6 @@
 - [Section 36 - Summary](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_36_Summary)
 - [Section 37 - Built-In Modules and Packages](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_37_Built_In_Modules_and_Packages)
 - [Section 38 - Datetime](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_38_Datetime)
-- [Section 39 - OS]()
+- [Section 39 - OS](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_39_OS)
 
 Link to the course: [Udemy](https://www.udemy.com/course/python-programming-modules-packages/)
