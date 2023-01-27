@@ -41,5 +41,6 @@
 - [Section 38 - Datetime](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_38_Datetime)
 - [Section 39 - OS](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_39_OS)
 - [Section 40 - SYS](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_40_SYS)
+- [Section 41 - Copy](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_41_Copy)
 
 Link to the course: [Udemy](https://www.udemy.com/course/python-programming-modules-packages/)
