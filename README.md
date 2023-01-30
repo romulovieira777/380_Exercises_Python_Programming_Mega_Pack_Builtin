@@ -43,6 +43,6 @@
 - [Section 40 - SYS](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_40_SYS)
 - [Section 41 - Copy](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_41_Copy)
 - [Section 42 - String](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_42_String)
-- [Section 43 - RE]()
+- [Section 43 - RE](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_43_RE)
 
 Link to the course: [Udemy](https://www.udemy.com/course/python-programming-modules-packages/)
