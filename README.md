@@ -44,5 +44,6 @@
 - [Section 41 - Copy](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_41_Copy)
 - [Section 42 - String](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_42_String)
 - [Section 43 - RE](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_43_RE)
+- [Section 44 - Collections](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_44_Collections)
 
 Link to the course: [Udemy](https://www.udemy.com/course/python-programming-modules-packages/)
