@@ -1,10 +1,12 @@
 """
-Exercise No. 06
+Exercise No. 09
 
 The following text is given:
-    text = 'Please send an email to info@template.com or sales-info@template.it'
+    message = 'For more information, please call: 123-456-789'
 
-Using the built-in re module extract all e-mail addresses from the text and print to the console.
+Using the built-in re module extract the phone number from the given message.
+
+In response, print the result to the console.
 
 Tip:
     #>>> help(re.findall)
@@ -21,11 +23,11 @@ Tip:
         Empty matches are included in the result.
 
 Expected result:
-    ['info@template.com', 'sales-info@template.it']
+    123-456-789
 """
 import re
 
-text = 'Please send an email to info@template.com or sales-info@template.it'
+message = 'For more information, please call: 123-456-789'
 
-result = re.findall(pattern=r"[\w\.-]+@[\w\.-]+", string=text)
+result = re.findall(r"\d{3}-\d{3}-\d{3}", message)[0]
 print(result)
