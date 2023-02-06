@@ -2,6 +2,7 @@
 Exercise No. 05
 
 The following text is given:
+
     text = "python programming - introduction"
 
 Using the built-in collections module and the Counter class calculate the three most common characters in the given text.
@@ -20,6 +21,7 @@ Tip:
         [('a', 5), ('b', 4), ('c', 3)]
 
 Expected result:
+
     [('o', 4), ('n', 4), ('t', 3)]
 """
 from collections import Counter

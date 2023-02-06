@@ -2,11 +2,13 @@
 Exercise No. 03
 
 The results of voting in three groups are given in the form of dictionaries:
+
     poll_1 = {'yes': 140, 'no': 120, None: 12}
     poll_2 = {'yes': 113, 'no': 132, None: 9}
     poll_3 = {'yes': 16, 'no': 14}
 
 The dictionary keys mean respectively:
+
     - 'yes - vote for keys
     - 'no' - vote for no
     - 'None' - invalid vote
@@ -25,6 +27,7 @@ Tip:
      |  are stored as dictionary values.
 
 Expected result:
+
     269
 """
 from collections import Counter

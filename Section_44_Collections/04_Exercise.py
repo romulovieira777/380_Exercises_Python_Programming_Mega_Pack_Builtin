@@ -2,6 +2,7 @@
 Exercise No. 04
 
 The text is a follows:
+
     text = "python programming - introduction"
 
 Using the built-in collections module and the Counter class find the distribution of characters in the given text
@@ -18,6 +19,7 @@ Tip:
      |  are stored as dictionary values.
 
 Expected result:
+
     Counter({'o': 4, 'n': 4, 't': 3, ' ': 3, 'r': 3, 'i': 3, 'p': 2, 'g': 2, 'm': 2, 'y': 1, 'h': 1, 'a': 1, '-': 1,
              'd': 1, 'u': 1, 'c': 1})
 """

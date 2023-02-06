@@ -2,6 +2,7 @@
 Exercise No. 06
 
 The following text is given:
+
     text = '''Python is fast enough for our site and allows us to produce maintainable features in record times,
         with a minimum of developers," said Cuong Do, Software Architect, YouTube.com.
 
@@ -14,6 +15,7 @@ a Counter object that allows you to determine the three most common words in the
 with the number of occurrences.
 
 Expected result:
+
     [('to', 4), ('python', 3), ('a', 3)]
 """
 from collections import Counter
