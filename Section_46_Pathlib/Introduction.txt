@@ -1,0 +1,42 @@
+Intro
+
+More: https://docs.python.org/3.8/library/pathlib
+
+Docs:
+
+>>> help(pathlib)
+
+
+Help on module pathlib:
+
+NAME
+    pathlib
+
+MODULE REFERENCE
+    https://docs.python.org/3.8/library/pathlib
+
+    The following documentation is automatically generated from the Python
+    source files.  It may be incomplete, incorrect or include features that
+    are considered implementation detail and may vary between Python
+    implementations.  When in doubt, consult the module reference at the
+    location listed above.
+
+CLASSES
+    builtins.object
+        PurePath
+            Path
+                PosixPath(Path, PurePosixPath)
+                WindowsPath(Path, PureWindowsPath)
+            PurePosixPath
+            PureWindowsPath
+
+    class Path(PurePath)
+     |  Path(*args, **kwargs)
+     |
+     |  PurePath subclass that can make system calls.
+     |
+     |  Path represents a filesystem path but unlike PurePath, also offers
+     |  methods to do system calls on path objects. Depending on your system,
+     |  instantiating a Path will return either a PosixPath or a WindowsPath
+     |  object. You can also instantiate a PosixPath or WindowsPath directly,
+     |  but cannot instantiate a WindowsPath on a POSIX system or vice versa.
