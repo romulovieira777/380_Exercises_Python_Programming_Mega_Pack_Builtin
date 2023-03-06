@@ -38,5 +38,6 @@ Expected result:
 import random
 
 random.seed(42)
+
 var = random.random()
 print(round(var, 5))
