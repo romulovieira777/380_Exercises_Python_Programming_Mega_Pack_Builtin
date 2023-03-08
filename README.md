@@ -48,5 +48,6 @@
 - [Section 45 - CSV](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_45_CSV)
 - [Section 46 - Pathlib](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_46_Pathlib)
 - [Section 47 - Random](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_47_Random)
+- [Section 48 - Math](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_48_Math)
 
 Link to the course: [Udemy](https://www.udemy.com/course/python-programming-modules-packages/)
