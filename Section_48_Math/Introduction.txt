@@ -1,0 +1,16 @@
+Intro
+
+More: https://docs.python.org/3/library/math.html
+
+Docs:
+
+>>> help(math)
+
+Help on built-in module math:
+
+NAME
+    math
+
+DESCRIPTION
+    This module provides access to the mathematical functions
+    defined by the C standard.
