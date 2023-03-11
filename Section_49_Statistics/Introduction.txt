@@ -1,0 +1,44 @@
+Intro
+
+More: https://docs.python.org/3.8/library/statistics
+
+Docs:
+
+>>> help(statistics)
+
+Help on module statistics:
+
+NAME
+    statistics - Basic statistics module.
+
+MODULE REFERENCE
+    https://docs.python.org/3.8/library/statistics
+
+    The following documentation is automatically generated from the Python
+    source files.  It may be incomplete, incorrect or include features that
+    are considered implementation detail and may vary between Python
+    implementations.  When in doubt, consult the module reference at the
+    location listed above.
+
+DESCRIPTION
+    This module provides functions for calculating statistics of data, including
+    averages, variance, and standard deviation.
+
+    Calculating averages
+    --------------------
+
+    ==================  ==================================================
+    Function            Description
+    ==================  ==================================================
+    mean                Arithmetic mean (average) of data.
+    fmean               Fast, floating point arithmetic mean.
+    geometric_mean      Geometric mean of data.
+    harmonic_mean       Harmonic mean of data.
+    median              Median (middle value) of data.
+    median_low          Low median of data.
+    median_high         High median of data.
+    median_grouped      Median, or 50th percentile, of grouped data.
+    mode                Mode (most common value) of data.
+    multimode           List of modes (most common values of data).
+    quantiles           Divide data into intervals with equal probability.
+    ==================  ==================================================
