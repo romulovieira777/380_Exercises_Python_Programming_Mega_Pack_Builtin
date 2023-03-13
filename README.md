@@ -50,5 +50,6 @@
 - [Section 47 - Random](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_47_Random)
 - [Section 48 - Math](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_48_Math)
 - [Section 49 - Statistics](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_49_Statistics)
+- [Section 50 - Numbers](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_50_Numbers)
 
 - Link to the course: [Udemy](https://www.udemy.com/course/python-programming-modules-packages/)
