@@ -1,0 +1,43 @@
+Intro
+
+More: https://docs.python.org/3.8/library/decimal
+
+Docs:
+
+>>> help(decimal)
+
+Help on module decimal:
+
+NAME
+    decimal - C decimal arithmetic module
+
+MODULE REFERENCE
+    https://docs.python.org/3.8/library/decimal
+
+    The following documentation is automatically generated from the Python
+    source files.  It may be incomplete, incorrect or include features that
+    are considered implementation detail and may vary between Python
+    implementations.  When in doubt, consult the module reference at the
+    location listed above.
+
+CLASSES
+    builtins.ArithmeticError(builtins.Exception)
+        DecimalException
+            Clamped
+            DivisionByZero(DecimalException, builtins.ZeroDivisionError)
+            FloatOperation(DecimalException, builtins.TypeError)
+            Inexact
+                Overflow(Inexact, Rounded)
+                Underflow(Inexact, Rounded, Subnormal)
+            InvalidOperation
+                ConversionSyntax
+                DivisionImpossible
+                DivisionUndefined(InvalidOperation, builtins.ZeroDivisionError)
+                InvalidContext
+            Rounded
+            Subnormal
+    builtins.object
+        Context
+        Decimal
+    builtins.tuple(builtins.object)
+        DecimalTuple
