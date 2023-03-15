@@ -1,0 +1,46 @@
+Intro
+
+More: https://docs.python.org/3.8/library/fractions
+
+Docs:
+
+>>> help(fractions)
+
+Help on module fractions:
+
+NAME
+    fractions - Fraction, infinite-precision, real numbers.
+
+MODULE REFERENCE
+    https://docs.python.org/3.8/library/fractions
+
+    The following documentation is automatically generated from the Python
+    source files.  It may be incomplete, incorrect or include features that
+    are considered implementation detail and may vary between Python
+    implementations.  When in doubt, consult the module reference at the
+    location listed above.
+
+CLASSES
+    numbers.Rational(numbers.Real)
+        Fraction
+
+    class Fraction(numbers.Rational)
+     |  Fraction(numerator=0, denominator=None, *, _normalize=True)
+     |
+     |  This class implements rational numbers.
+     |
+     |  In the two-argument form of the constructor, Fraction(8, 6) will
+     |  produce a rational number equivalent to 4/3. Both arguments must
+     |  be Rational. The numerator defaults to 0 and the denominator
+     |  defaults to 1 so that Fraction(3) == 3 and Fraction() == 0.
+     |
+     |  Fractions can also be constructed from:
+     |
+     |    - numeric strings similar to those accepted by the
+     |      float constructor (for example, '-2.3' or '1e10')
+     |
+     |    - strings of the form '123/456'
+     |
+     |    - float and Decimal instances
+     |
+     |    - other Rational instances (including integers)
