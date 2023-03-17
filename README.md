@@ -53,5 +53,6 @@
 - [Section 50 - Numbers](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_50_Numbers)
 - [Section 51 - Decimal](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_51_Decimal)
 - [Section 52 - Fractions](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_52_Fractions)
+- [Section 53 - Itertools](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_53_Itertools)
 
 Link to the course: [Udemy](https://www.udemy.com/course/python-programming-modules-packages/)
