@@ -22,7 +22,7 @@ Tip:
      |
      |  Return a chain object whose .__next__() method returns elements from the
      |  first iterable until it is exhausted, then elements from the next
-     |  iterable, until all of the iterables are exhausted.
+     |  iterable, until all the iterables are exhausted.
 
 Expected result:
 
