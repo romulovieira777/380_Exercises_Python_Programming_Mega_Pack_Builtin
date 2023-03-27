@@ -1,5 +1,5 @@
 """
-Exercise No. 19
+Exercise No. 21
 
 The following dictionary is given:
 
@@ -42,31 +42,35 @@ The following dictionary is given:
         },
     }
 
-Using the built-in itertools module and the takewhile class create an iterator to iterate through the closing prices
-from the teska dictionary (the Close key) until a price greater than 1600 is found and assign to the results variable.
+Using the built-in itertools module and the dropwhile class create an iterator that allows iterating through the closing
+prices from this dictionary (the Close key) from the moment a price greater than 1500 is found and assign to the results
+variable.
 
 In response, print all elements of the results iterator to the console as shown below.
 
 Tip:
 
-    #>>> help(itertools.takewhile)
+    #>>> help(itertools.dropwhile)
 
-    Help on class takewhile in module itertools:
+    Help on class dropwhile in module itertools:
 
-    class takewhile(builtins.object)
-        |  takewhile(predicate, iterable, /)
-        |
-        |  Return successive entries from an iterable as long as the predicate evaluates to true for each entry.
+    class dropwhile(builtins.object)
+     |  dropwhile(predicate, iterable, /)
+     |
+     |  Drop items from the iterable while predicate(item) is true.
+     |
+     |  Afterwards, return every element until the iterable is exhausted.
 
 Expected result:
 
-    1499.11
-    1476.49
     1539.6
     1417.0
     1513.07
     1592.33
     1568.36
+    1643.0
+    1500.84
+    1500.64
 """
 import itertools
 
@@ -109,6 +113,6 @@ tesla = {
     },
 }
 
-results = itertools.takewhile(lambda price: price <= 1600, tesla['Close'].values())
+results = itertools.dropwhile(lambda price: price <= 1500, tesla['Close'].values())
 
 print(*results, sep='\n')
