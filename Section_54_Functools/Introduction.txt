@@ -1,0 +1,28 @@
+Intro
+
+More: https://docs.python.org/3.8/library/functools
+
+Docs:
+
+>>> help(functools)
+
+Help on module functools:
+
+NAME
+    functools - functools.py - Tools for working with functions and callable objects
+
+MODULE REFERENCE
+    https://docs.python.org/3.8/library/functools
+
+    The following documentation is automatically generated from the Python
+    source files.  It may be incomplete, incorrect or include features that
+    are considered implementation detail and may vary between Python
+    implementations.  When in doubt, consult the module reference at the
+    location listed above.
+
+CLASSES
+    builtins.object
+        cached_property
+        partial
+        partialmethod
+        singledispatchmethod
