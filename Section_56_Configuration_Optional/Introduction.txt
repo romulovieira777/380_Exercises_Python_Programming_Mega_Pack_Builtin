@@ -1,0 +1,15 @@
+Info
+
+This section is optional. If you have a runtime environment set up, you can jump straight to the coding exercises.
+
+However, if you want to go to the environment configuration, below you will learn how to:
+
+work in the cloud with the Google Colab tool
+
+install Anaconda on Windows 10
+
+install Anaconda on Linux (Ubuntu)
+
+Tip:
+
+I recommend doing the exercises in your own editor and copying to the space for the solution.
