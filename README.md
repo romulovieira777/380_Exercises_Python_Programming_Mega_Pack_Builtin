@@ -56,6 +56,6 @@
 - [Section 53 - Itertools](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_53_Itertools)
 - [Section 54 - Functools](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_54_Functools)
 - [Section 55 - Json](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_55_Json)
-- [Section 56 - Configuration (Optional)]()
+- [Section 56 - Configuration (Optional)](https://github.com/romulovieira777/380_Exercises_Python_Programming_Mega_Pack_Builtin/tree/master/Section_56_Configuration_Optional)
 
 Link to the course: [Udemy](https://www.udemy.com/course/python-programming-modules-packages/)
